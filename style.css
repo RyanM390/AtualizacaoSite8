@@ -1223,11 +1223,21 @@ audio::-webkit-media-controls-panel{
     .formpe {
         margin-left: 100px;
     }
+
+    .divvid>h2 {
+        font-size: 25px;
+        margin-left: 50px;
+    }
 }
 
 @media (max-width: 425px) {
     html {
         width: 200%;
+    }
+
+    .divvid>h2 {
+        font-size: 25px;
+        margin-left: 50px;
     }
 }
 
@@ -1259,6 +1269,11 @@ audio::-webkit-media-controls-panel{
     .imgnegra {
         width: 630px;
     }
+    
+    .divvid>h2 {
+        font-size: 25px;
+        margin-left: 50px;
+    }
 }
 
 @media (max-width: 320px) {
@@ -1269,7 +1284,14 @@ audio::-webkit-media-controls-panel{
     .imgnegra {
         width: 630px;
     }
+
+    .divvid>h2 {
+        font-size: 25px;
+        margin-left: 50px;
+    }
 }
+
+
 
 
 
