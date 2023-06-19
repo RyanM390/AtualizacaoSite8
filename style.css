@@ -1316,15 +1316,6 @@ audio::-webkit-media-controls-panel{
 @media (max-width: 425px) {
     .spaceform {
         height: 180vh;
-        margin-top: 100px;
-    }
-}
-
-@media (max-width: 320px) {
-    .spaceform {
-        height: 160vh;
-    }
-    .footer-p3{
         margin-top: 50px;
     }
 }
