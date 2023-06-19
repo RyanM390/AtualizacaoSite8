@@ -1319,6 +1319,12 @@ audio::-webkit-media-controls-panel{
     }
 }
 
+@media (max-width: 320px) {
+    .spaceform {
+        height: 160vh;
+    }
+}
+
 
 
 
